@@ -1,0 +1,57 @@
+body {
+  background-color: #dde7ec;
+  border: 8px solid #2b3467;
+  /* background-color:  */
+}
+
+.content {
+  padding: 5% 15% 3%;
+}
+
+/* Title Section  */
+.main-img {
+  width: 150%;
+}
+
+#title {
+  padding-bottom: 5%;
+}
+
+.top-content {
+  text-align: end;
+  padding-top: 10%;
+  line-height: 22;
+}
+
+.top-heading {
+  font-size: 4rem;
+  color: #2b3467;
+}
+
+/* Biography Section  */
+.bio-heading {
+  padding: 2% 0;
+  font-size: 3rem;
+}
+
+.bio-text {
+  font-size: 1.3rem;
+  line-height: 1.6;
+  padding: 5% 0;
+}
+.name {
+  font-weight: 600;
+}
+
+/* Biblography Section  */
+.book-list {
+  font-size: 1.4rem;
+  line-height: 1.6;
+}
+
+/* Footer  */
+.link {
+  text-align: end;
+  font-size: 1.4rem;
+  padding-top: 5%;
+}
